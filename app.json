@@ -8,7 +8,7 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "CJ",
+        "description": "CJ.†",
         "value": "TOXXIC MD",
         "required": true
       },
@@ -26,7 +26,7 @@
   
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "MENU": {
@@ -38,7 +38,7 @@
         "value": "https://i.imgur.com/EBUvKfB.jpeg"
       },
       "BOT_NAME": {
-        "description": "CJ",
+        "description": "CJ.†",
         "required": false,
         "value": "RIAS_GREMORY-BOT"
       },
@@ -50,7 +50,7 @@
       "READ_COMMAND": {
         "description": " Read bot cmds",
         "required": false,
-        "value": "true"
+        "value": "false"
       },
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -85,7 +85,7 @@
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "READ_MESSAGE": {
         "description": "Fill the value true if you want bot to read all messages.",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "33757054414"
+        "value": "2767426981"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -120,7 +120,7 @@
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "",
+        "value": "CJ.†",
         "required": false
       }
     },
