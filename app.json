@@ -1,15 +1,15 @@
 {
-    "name": "RIAS_GREMORY-BOT v1.0",
+    "name": "CJ.†_GREMORY-BOT v1.0",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/EBUvKfB.jpeg",
-    "keywords": ["RIAS_GREMORY-BOT", "rais", "rais-Bot"],
+    "keywords": ["CJ.†_GREMORY-BOT", "rais", "rais-Bot"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "CJ.†",
-        "value": "TOXXIC MD",
+        "value": "CJ.† MD",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/351a2482f13d43c5f690b.jpg",
+        "value": "https://i.imgur.com/EBUvKfB.jpeg",
         "required": false
       },
   
